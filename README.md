@@ -1,4 +1,4 @@
-# CoculturePlate
+# Co-culture Plate
 Repository for Vertical Membrane Co-culture Plate files, data, and MATLAB scripts.
 
 Updates:
